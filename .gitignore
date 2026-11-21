@@ -1,0 +1,22 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+
+# Passwords and API keys
+.env
+.env.*
+*.key
+
+# Confidential research files
+private/
+confidential/
+
+# Datasets (review licensing before sharing)
+data/raw/
+data/processed/
+
+# Temporary files
+*.log
+.DS_Store
